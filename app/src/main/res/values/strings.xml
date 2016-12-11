@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ControleAulas</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="error_invalid_email">Este email é inválido</string>
+    <string name="error_invalid_password">Senha inválida</string>
+    <string name="error_incorrect_password">Usuário ou senha inválidos</string>
+    <string name="error_field_required">Campo obrigatório</string>
+
+    <string name="progresso">Progresso</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="sair">Sair</string>
+
+    <string-array name="lstCursos">
+        <item>Analise de Sistemas</item>
+        <item>Ciência da Computação</item>
+    </string-array>
+
+    <string-array name="lstAulas">
+        <item>Aula 1</item>
+        <item>Aula 2</item>
+    </string-array>
+
+    <string-array name="lstApps">
+        <item>App 1</item>
+        <item>App 2</item>
+    </string-array>
+</resources>
